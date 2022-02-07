@@ -51,7 +51,7 @@ class NamaController extends Controller
         //     'last_name'  => $nama->last_name,
         //     'result'     =>'create data suksek'
         // ]);
-         return redirect('/namas');
+        return redirect('/namas');
     }
 
     /**
