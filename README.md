@@ -2,10 +2,10 @@
  
 Localhost :
 
-Home    : http://localhost:8000/namas
-Add     : http://localhost:8000/namas/create
-Edit    : http://localhost:8000/namas/1/edit
-Delete  : http://localhost:8000/namas/1/destory
+1. Home    : http://localhost:8000/namas
+2. Add     : http://localhost:8000/namas/create
+3. Edit    : http://localhost:8000/namas/1/edit
+4. Delete  : http://localhost:8000/namas/1/destory
  
  
 Picture
