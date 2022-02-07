@@ -10,7 +10,7 @@ Delete  : http://localhost:8000/namas/1/destory
  
 Picture
 1. Home
-2
+
 ![image](https://user-images.githubusercontent.com/93830678/152800627-bcc57ba0-82bf-4102-b2e5-932ee236092b.png)
 
 
