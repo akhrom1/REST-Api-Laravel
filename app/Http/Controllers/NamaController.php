@@ -102,7 +102,7 @@ class NamaController extends Controller
         // return response()->json([
         //     'first_name'    =>$nama->first_name,
         //     'last_name'     =>$nama->last_name,
-        //     'result'     =>'update data suksek'
+        //     'result'     =>'update data sukses'
 
         // ]);
 
